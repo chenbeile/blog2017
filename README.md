@@ -7,5 +7,5 @@
 2.新建index.html
 
 ## 如何预览
-点击https://github.com/chenbeile/blog2017 即可预览
+点击https://chenbeile.github.io/blog2017/ 即可预览
 
