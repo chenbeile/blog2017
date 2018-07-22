@@ -5,4 +5,4 @@
 ### Issue优点：
 1.查找问题更方便，有标签选项
 2.编辑简单，使用markdown语法即可，可添加图片文字等
-3.有评论类似功能，可以在线交流
+3.有评论类似功能，可以在线交流![06151c8723c265285c3bab318ba0d96](C:\Users\ADMINI~1\AppData\Local\Temp\WeChat Files\06151c8723c265285c3bab318ba0d96.png)
