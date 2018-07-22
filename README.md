@@ -6,3 +6,4 @@
 1.查找问题更方便，有标签选项
 2.编辑简单，使用markdown语法即可，可添加图片文字等
 3.有评论类似功能，可以在线交流
+![readme](https://github.com/chenbeile/blog2017/blob/master/img/readme.png)
