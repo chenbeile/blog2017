@@ -7,4 +7,5 @@
 2.编辑简单，使用markdown语法即可，可添加图片文字等
 3.有评论类似功能，可以在线交流
 ![readme](https://github.com/chenbeile/blog2017/blob/master/img/readme.png)
-### [有关原型链的疑问解决参考](https://hexianzhi.github.io/2017/04/27/JavaScript%E5%8E%9F%E5%9E%8B/)
+### 疑难解答：
+#### [有关原型链的疑问解决参考](https://hexianzhi.github.io/2017/04/27/JavaScript%E5%8E%9F%E5%9E%8B/)
