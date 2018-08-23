@@ -5,6 +5,8 @@
 ### 疑难解答：
 #### [有关原型链的疑问解决参考](https://hexianzhi.github.io/2017/04/27/JavaScript%E5%8E%9F%E5%9E%8B/)
 #### [ajax理解](https://github.com/chenbeile/blog2017/issues/64)
+### 2018.8-9月学习计划
+**精读《深入理解ES6》，并学完一个章节进行总结，写博客记录
 ### Issue优点：
 1.查找问题更方便，有标签选项
 2.编辑简单，使用markdown语法即可，可添加图片文字等
